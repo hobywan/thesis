@@ -1,7 +1,7 @@
 # thesis
-[![license:cc](https://img.shields.io/badge/license-creative%20commons-blue.svg)](https://creativecommons.org/licenses)
+[![license:cc](https://img.shields.io/badge/license-creative%20commons-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-My doctoral thesis dissertion and slides document.  
+My doctoral thesis dissertion and slides document *(in french)*.  
 I defended it on July 6, 2018 at [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en).
 
 ###### Publications
@@ -21,4 +21,7 @@ Part of this work were published in conference proceedings:
 
 ###### License
 
-It is released under a Creative Common license.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
+
+This work is released under a Creative Commons [BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/) International License.
+
